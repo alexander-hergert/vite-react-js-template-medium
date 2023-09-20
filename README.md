@@ -77,6 +77,22 @@ The projects have multiple pages and prefered way for fetching is React Query.
 
 - Footer.jsx a footer component for Frontend Mentor. (Change your name there or styles or delete)
 
+#### pages
+
+- pages directory to hold pages  components
+
+#### SharedLayout
+
+- Holding an example of how to use shared components between pages
+
+#### ErrorPage
+
+- Holding example of 404 page
+
+#### HomePage
+
+- Example and placeholder page for starting route
+
 #### React Query Example components
 
 - ExampleReactQuery.jsx
